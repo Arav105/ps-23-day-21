@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\bin\Debug\ps-23.exe.config
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\bin\Debug\ps-23.exe
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\bin\Debug\ps-23.pdb
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\bin\Debug\SharedLibrary.dll
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\bin\Debug\SharedLibrary.pdb
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\obj\Debug\ps-23.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\obj\Debug\ps-23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\obj\Debug\ps-23.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\obj\Debug\ps-23.csproj.CopyComplete
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\obj\Debug\ps-23.exe
+C:\Users\Admin\source\repos\ps-23 day-21\ps-23\obj\Debug\ps-23.pdb
